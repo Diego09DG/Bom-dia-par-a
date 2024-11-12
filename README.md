@@ -1,6 +1,6 @@
 # Bom-dia-par-ça
 ## desenvolvido por
-### estudante Diego :shipit:
+### estudante Diego 
 * Ârea afins
 ## gosto de cozinhar
 ## gosto de jogar 
